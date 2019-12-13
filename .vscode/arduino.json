@@ -1,0 +1,7 @@
+{
+    "port": "/dev/ttyUSB0",
+    "board": "esp32:esp32:pico32",
+    "configuration": "UploadSpeed=115200,DebugLevel=error",
+    "sketch": "M5StickSSL/main/main.ino",
+    "output": "../build"
+}

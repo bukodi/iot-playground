@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "/screens.cpp,/screens.h",
+  "builtInLibrariesFolders": "/opt/arduino-1.8.9/libraries",
+  "customBuildProperties": "build.path=/home/bukodi/git/M5StickDemo/build,build.warn_data_percentage=75,runtime.tools.mkspiffs.path=/home/bukodi/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.mkspiffs-0.2.3.path=/home/bukodi/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.xtensa-esp32-elf-gcc.path=/home/bukodi/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-80-g6c4433a-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-80-g6c4433a-5.2.0.path=/home/bukodi/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-80-g6c4433a-5.2.0,runtime.tools.esptool_py.path=/home/bukodi/.arduino15/packages/esp32/tools/esptool_py/2.6.1,runtime.tools.esptool_py-2.6.1.path=/home/bukodi/.arduino15/packages/esp32/tools/esptool_py/2.6.1",
+  "fqbn": "esp32:esp32:pico32:UploadSpeed=115200,DebugLevel=none",
+  "hardwareFolders": "/opt/arduino-1.8.9/hardware,/home/bukodi/.arduino15/packages",
+  "otherLibrariesFolders": "/home/bukodi/Arduino/libraries",
+  "runtime.ide.version": "10809",
+  "sketchLocation": "/home/bukodi/git/M5StickDemo/main.ino",
+  "toolsFolders": "/opt/arduino-1.8.9/tools-builder,/opt/arduino-1.8.9/hardware/tools/avr,/home/bukodi/.arduino15/packages"
+}
